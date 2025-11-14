@@ -9,19 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59b635263d670e743b332ec4b403537c, type: 3}
-  m_Name: Cellular
-  m_EditorClassIdentifier: Assembly-CSharp::deblob123456789.Cellular
+  m_Script: {fileID: 11500000, guid: a0abecbca00938f4f88df487e29b8171, type: 3}
+  m_Name: SimpleRoomPlacement
+  m_EditorClassIdentifier: Assembly-CSharp::Components.ProceduralGeneration.SimpleRoomPlacement.SimpleRoomPlacementCorrection
   _maxSteps: 10
   _maxRooms: 10
   _roomMinSize: {x: 5, y: 5}
   _roomMaxSize: {x: 12, y: 8}
-  frequency: 0.1
-  amp: 1
-  octaves: 3
-  lacunarity: 2
-  persistance: 0.5
-  waterheight: -0.6
-  sandheight: -0.3
-  grassheight: 0.8
-  rockheight: 1

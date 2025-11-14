@@ -101,19 +101,5 @@ namespace deblob123456789
             //noise.SetCellularReturnType()
             //noise.SetCellularJitter();
         }
-
-        /*async void OnValidate()
-        {
-            await Generate();
-
-            try
-            {
-                
-            }
-            catch (Exception e)
-            {
-                Debug.Log("fuck");
-            }
-        }*/
     }
 }

@@ -43,7 +43,7 @@ namespace deblob123456789
 
             if (splitVertical) //left and right
             {
-                splitBoundary = RandomService.Range(minimumSize, availableRoom.y - minimumSize);
+                splitBoundary = RandomService.Range(minimumSize, availableRoom.height - minimumSize);
 
                 LeftOrUnderCellRect = new(availableRoom.x, availableRoom.y, availableRoom.width, splitBoundary);
                 RightOrAboveCellRect = new(splitBoundary, availableRoom.y, availableRoom.width, splitBoundary);
