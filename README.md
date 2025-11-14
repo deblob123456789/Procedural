@@ -3,8 +3,8 @@
 There is three procedural generation methods:
 - [SimpleRoomPlacement](#simpleroomplacement)
 - [BinarySpacePartition](#binaryspacepartition)
-
-
+- [CellularAutomata](#cellularautomata)
+- [VoronoiNoise](#voronoinoise)
 
 ## SimpleRoomPlacement
 
@@ -13,3 +13,9 @@ There is three procedural generation methods:
 ## BinarySpacePartition
 
 
+
+## CellularAutomata
+
+
+
+## VoronoiNoise
