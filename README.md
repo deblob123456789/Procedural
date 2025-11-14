@@ -12,21 +12,21 @@ Its settings can then be modified from the inspector.
 
 ## SimpleRoomPlacement
 
-
+WIP
 
 ## BinarySpacePartition
 
-
+WIP
 
 ## CellularAutomata
 
-
-
+WIP
 
 ## VoronoiNoise
 
 <img width="469" height="629" alt="image" src="https://github.com/user-attachments/assets/48d52034-ee1d-4739-a2fd-913a424eb6e7" />
 
+Feel free to implement these later
 
-
+<img width="541" height="384" alt="image" src="https://github.com/user-attachments/assets/57c8875c-eb1d-47db-80c8-b551379bd6cf" />
 
