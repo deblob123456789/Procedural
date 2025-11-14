@@ -24,6 +24,7 @@ Its settings can then be modified from the inspector
 
 ## VoronoiNoise
 
-<img width="938" height="1259" alt="image" src="https://github.com/user-attachments/assets/48d52034-ee1d-4739-a2fd-913a424eb6e7" />
+<img width="469" height="629" alt="image" src="https://github.com/user-attachments/assets/48d52034-ee1d-4739-a2fd-913a424eb6e7" />
+
 
 
