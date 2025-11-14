@@ -21,7 +21,7 @@ MonoBehaviour:
   octaves: 3
   lacunarity: 2
   persistance: 0.5
-  waterheight: -0.6
-  sandheight: -0.3
-  grassheight: 0.8
-  rockheight: 1
+  waterheight: -0.71
+  sandheight: -0.54
+  grassheight: -0.3
+  rockheight: -0.03

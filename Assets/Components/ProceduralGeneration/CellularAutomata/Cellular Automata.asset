@@ -16,5 +16,5 @@ MonoBehaviour:
   _maxRooms: 10
   _roomMinSize: {x: 5, y: 5}
   _roomMaxSize: {x: 12, y: 8}
-  NoiseDensity: 0.4
+  NoiseDensity: 0.35
   Threshold: 4
