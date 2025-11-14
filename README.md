@@ -1,7 +1,8 @@
 ## Documentation
 
 There is three procedural generation methods:
-- [Introduction](#introduction)
+- [SimpleRoomPlacement](#SimpleRoomPlacement)
+- [BinarySpacePartition](#BinarySpacePartition)
 
 
 
@@ -9,5 +10,6 @@ There is three procedural generation methods:
 
 
 
+## SimpleRoomPlacement
 
-## Introduction
+## BinarySpacePartition
